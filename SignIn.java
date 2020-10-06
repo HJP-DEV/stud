@@ -1,5 +1,5 @@
 public class SignIn{
-<<<<<<< HEAD
+<<<<<<<
 	private int id;
 	private String name;
 =======
